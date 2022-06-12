@@ -1,0 +1,7 @@
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\obj\Debug\6locc 6a6y.csproj.CoreCompileInputs.cache
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\bin\Debug\Cloud Spoofer.exe.config
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\bin\Debug\Cloud Spoofer.exe
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\bin\Debug\Cloud Spoofer.pdb
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\obj\Debug\Cloud Spoofer.exe
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\obj\Debug\Cloud Spoofer.pdb
+C:\Users\jakobis\Desktop\fortnite-spoofer-source-main\obj\Debug\6locc 6a6y.csproj.AssemblyReference.cache

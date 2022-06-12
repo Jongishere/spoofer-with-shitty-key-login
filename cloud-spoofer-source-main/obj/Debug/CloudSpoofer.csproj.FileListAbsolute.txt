@@ -1,0 +1,7 @@
+D:\projects\cloud-spoofer-source-main\bin\Debug\Cloud Spoofer.exe.config
+D:\projects\cloud-spoofer-source-main\bin\Debug\Cloud Spoofer.exe
+D:\projects\cloud-spoofer-source-main\bin\Debug\Cloud Spoofer.pdb
+D:\projects\cloud-spoofer-source-main\obj\Debug\CloudSpoofer.csproj.AssemblyReference.cache
+D:\projects\cloud-spoofer-source-main\obj\Debug\CloudSpoofer.csproj.CoreCompileInputs.cache
+D:\projects\cloud-spoofer-source-main\obj\Debug\Cloud Spoofer.exe
+D:\projects\cloud-spoofer-source-main\obj\Debug\Cloud Spoofer.pdb
