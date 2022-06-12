@@ -8,7 +8,7 @@ using JONGERS;
 
 namespace JONGERS
 {
-    /// there is the password u wanted bozo idc enough to make it a sql key database now try to crack my cheat :pepejam:
+   
     class Program
     {
         static void Main(string[] args)
@@ -77,7 +77,7 @@ namespace JONGERS
         Menu:
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine();
-            Console.Title = "[Cloud Spoofer] https://discord.gg/w4yKuCk7hT "; /// 
+            Console.Title = "[Cloud Spoofer] https://discord.gg/jong "; /// 
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine();
             Console.WriteLine();
